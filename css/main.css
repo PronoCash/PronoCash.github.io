@@ -33,7 +33,7 @@ h3 {
 div container, ol li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+p, div container p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
