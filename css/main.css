@@ -33,11 +33,15 @@ h3 {
 div container, ol li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p, div container p {
+p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+div container {
+    line-height: 1.4em;
+    color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
