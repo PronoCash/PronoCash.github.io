@@ -29,7 +29,7 @@ h2 {
 h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-div container {
+div container, ol li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
